@@ -1,10 +1,48 @@
-- 👋 Hola, Soy @estefanytorres31
-- 👀 Una joven desarrolladora de software
-- 🌱 Me encuentro aprendiendo nuevas tecnologías
-- 💞️ Dispuesta a aprender nuevas cosas.
+# Hola, soy Estefany Torres 👋
 
+Desarrollador Full Stack apasionado por crear soluciones eficientes y automatizar procesos.
 
-<!---
-estefanytorres31/estefanytorres31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Sobre mí
+
+- 🔭 Trabajando actualmente en **Peru Controls System**
+- 🌱 Aprendiendo **Go**
+- 👯 Buscando colaborar en proyectos de código abierto
+- 📫 Contáctame: **estefanyt3101@gmail.com**
+
+## 🛠️ Tecnologías
+
+**Lenguajes:**
+- Python, JavaScript, TypeScript, Java, PHP, Go
+
+**Frontend:**
+- React, HTML5, CSS3
+
+**Backend:**
+- Node.js, Express, Django, Flask, Spring Boot
+
+**Bases de Datos:**
+- PostgreSQL, MySQL
+
+**Herramientas:**
+- Git, Docker, Postman, VS Code, Figma, Trello
+
+## 📊 Estadísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact)
+
+## 🏆 Proyectos Destacados
+
+- **Proyecto Tareas y Asistencia** - Aplicativo móvil y web para la gestión de tareas y monitoreo de asistencias. Hecho con React Native, Node.js y React Vite con el lenguaje de programación de JavaScript.
+- **Sistema de Cashflow** - Aplicativo móvil y web para manejo de ingresos y salidas. Hecho con React Native, Node.js y React Vite con el lenguaje de programación de JavaScript.
+- **Sistema de POS** - Aplicativo móvil y web para poder hacer registro de ventas. Hecho con React Native, Node.js y React Vite con el lenguaje de programación de JavaScript.
+
+## 📫 Contacto
+
+- LinkedIn: [linkedin.com/in/estefany-torres-timan%C3%A1-aa192328a/](https://www.linkedin.com/in/estefany-torres-timan%C3%A1-aa192328a/)
+- Email: estefanyt3101@gmail.com
+
+---
+
+⭐ Si te gusta mi trabajo, considera darle una estrella a mis repositorios
