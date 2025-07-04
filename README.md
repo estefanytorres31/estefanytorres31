@@ -30,7 +30,7 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y automatiza
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estefanytorres31&theme=aura_dark&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&theme=aura_dark&layout=compact)
 
 ## 🏆 Proyectos Destacados
 
