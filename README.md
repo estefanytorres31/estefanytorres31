@@ -101,7 +101,7 @@ const estefany = {
 
 - Dominar **Go** para desarrollo de microservicios  
 - Profundizar en tecnologías **Cloud** (AWS/GCP)  
-- Explorar **Machine Learning** con Python  
+- Explorar **Kotlin** para ampliar mis conocimientos en desarrollo de aplicaciones móviles
 - Crear aplicaciones móviles avanzadas con **React Native**  
 - Contribuir a proyectos **Open Source**
 
