@@ -28,7 +28,7 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y automatiza
 
 ## 📊 Estadísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&count_private=true&theme=gradient)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact)
 
