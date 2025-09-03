@@ -1,147 +1,336 @@
+# 🚀 Estefany Torres Timaná
 
-# 👋 ¡Hola! Soy Estefany Torres Timaná
+<div align="center">
 
-### 💻 Desarrolladora Full Stack Apasionada
-### 🚀 Especializada en Node.js • React • Go • Python
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Full%20Stack%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+innovate!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Node.js+%7C+React+%7C+Go+%7C+Python;%F0%9F%8C%9F+Always+Learning+%26+Innovating;%F0%9F%94%A5+Building+Amazing+Things!)](https://git.io/typing-svg)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-📍 **Lima, Perú** • 🎂 **23 años** • 📧 **estefanyt3101@gmail.com**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefany-torres-timan%C3%A1-aa192328a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estefanytorres31)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estefanyt3101@gmail.com)
+</div>
 
 ---
 
-## 🚀 Sobre mí
+## 👋 ¡Hola Mundo! 
 
-```javascript
-const estefany = {
-    pronouns: "she/her",
-    location: "Lima, Perú 🇵🇪",
-    role: "Full Stack Developer",
-    passion: ["Coding", "Problem Solving", "Learning", "Innovation"],
-    currentFocus: "Learning Go for concurrent programming and distributed systems",
-    funFact: "I love automating processes and creating efficient tools! 🛠️"
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🙋‍♀️ Sobre Mí
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  age: number;
+  role: string[];
+  passions: string[];
+  currentLearning: string;
+  lifePhilosophy: string;
+}
+
+const estefany: Developer = {
+  name: "Estefany Torres Timaná",
+  location: "Lima, Perú 🇵🇪",
+  age: 23,
+  role: ["Full Stack Developer", "Problem Solver"],
+  passions: [
+    "Clean Code", 
+    "Innovation", 
+    "Automation",
+    "Continuous Learning"
+  ],
+  currentLearning: "Go & Microservices Architecture",
+  lifePhilosophy: "Code is poetry, debug is therapy ✨"
 };
 ```
 
-🎯 **Mi Misión:** Crear soluciones tecnológicas innovadoras que simplifiquen la vida de las personas y optimicen procesos empresariales.
+</td>
+<td width="50%">
 
-💡 **Actualmente:** Aprendiendo **Go**, y fortaleciendo habilidades en microservicios y automatización.
+### 📊 GitHub Analytics
+![Estefany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=estefanytorres31&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
-## 🛠️ Stack Tecnológico
-
-### 💻 Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Herramientas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 🏆 Proyectos Destacados
+## 🛠️ Tech Arsenal 
 
-### 📱 Sistema de Tareas y Asistencia
-**🛠️ Stack:** React Native • Node.js • Vite • PostgreSQL  
-**📋 Descripción:** Aplicación móvil/web para gestión eficiente de tareas y asistencias.  
-**✨ Características:** Dashboard interactivo, reportes automáticos.
+<div align="center">
 
-### 💰 Sistema de Cashflow
-**🛠️ Stack:** React Native • Node.js • Vite • MySQL  
-**📋 Descripción:** Plataforma para control financiero personal y empresarial.  
-**✨ Características:** Gráficos dinámicos, exportación de reportes.
+### 💻 Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,go,react,nodejs,reactnative,html,css,spring,flask,django,vite" alt="Tech Stack" />
+</p>
 
-### 🛒 Sistema POS
-**🛠️ Stack:** React Native • Node.js • Vite • PostgreSQL  
-**📋 Descripción:** Sistema de ventas e inventario.  
-**✨ Características:** Registro de ventas, control de stock, notificaciones.
+### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,docker,postman,vscode,figma,github,linux,aws" alt="Tools" />
+</p>
 
----
+### 📈 Skill Levels
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-![Estefany's GitHub stats](https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact&langs_count=8&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=estefanytorres31&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 
 ---
 
-## 🎯 Objetivos 2025
+## 🏆 Featured Projects
 
-- Dominar **Go** para desarrollo de microservicios  
-- Profundizar en tecnologías **Cloud** (AWS/GCP)  
-- Explorar **Kotlin** para ampliar mis conocimientos en desarrollo de aplicaciones móviles
-- Crear aplicaciones móviles avanzadas con **React Native**  
-- Contribuir a proyectos **Open Source**
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+
+### 📱 Task & Attendance System
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+**Stack:** React Native • Node.js • PostgreSQL  
+**Features:**
+- 📊 Interactive Dashboard
+- 📈 Automated Reports  
+- 📱 Cross-platform Mobile App
+- 🔔 Real-time Notifications
+
+[![Repo](https://img.shields.io/badge/View-Repository-00D9FF?style=for-the-badge&logo=github)](https://github.com/estefanytorres31)
+
+</td>
+<td width="33%">
+
+### 💰 Cashflow Management System
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**Stack:** React Native • Node.js • MySQL  
+**Features:**
+- 📊 Dynamic Charts
+- 💹 Financial Analytics
+- 📤 Export Reports
+- 🔐 Secure Transactions
+
+[![Repo](https://img.shields.io/badge/View-Repository-00D9FF?style=for-the-badge&logo=github)](https://github.com/estefanytorres31)
+
+</td>
+<td width="33%">
+
+### 🛒 POS System
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Stack:** React Native • Node.js • PostgreSQL  
+**Features:**
+- 🛍️ Sales Management
+- 📦 Inventory Control
+- 📊 Business Analytics
+- 🖨️ Receipt Generation
+
+[![Repo](https://img.shields.io/badge/View-Repository-00D9FF?style=for-the-badge&logo=github)](https://github.com/estefanytorres31)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 💼 Experiencia & Logros
+## 📊 GitHub Statistics
 
-```yaml
-Desarrollo Full Stack:
-  - 1+ año de experiencia en desarrollo web y móvil
-  - Especialización en arquitecturas escalables
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+</div>
 
-Habilidades Técnicas:
-  - APIs RESTful
-  - Bases de datos relacionales
-  - Metodologías ágiles (Scrum/Kanban)
-  - Testing automatizado
-  - CI/CD pipelines
+<div align="center">
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=estefanytorres31&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+### 🏅 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=estefanytorres31&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=estefanytorres31&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF" width="100%"/>
+</div>
+
+---
+
+## 🎯 2025 Goals & Roadmap
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 Goals 2025] --> B[🚀 Master Go]
+    A --> C[☁️ Cloud Technologies]
+    A --> D[📱 Advanced Mobile Dev]
+    A --> E[🌍 Open Source]
+    
+    B --> B1[Microservices Architecture]
+    B --> B2[Concurrent Programming]
+    B --> B3[gRPC & Protocol Buffers]
+    
+    C --> C1[AWS Certification]
+    C --> C2[Docker & Kubernetes]
+    C --> C3[CI/CD Pipelines]
+    
+    D --> D1[Kotlin for Android]
+    D --> D2[Swift for iOS]
+    D --> D3[React Native Mastery]
+    
+    E --> E1[Contribute to Major Projects]
+    E --> E2[Create Dev Tools]
+    E --> E3[Tech Community Leadership]
+    
+    style A fill:#00D9FF,stroke:#0D1117,stroke-width:3px,color:#000
+    style B fill:#FF6B6B,stroke:#0D1117,stroke-width:2px,color:#fff
+    style C fill:#4ECDC4,stroke:#0D1117,stroke-width:2px,color:#000
+    style D fill:#45B7D1,stroke:#0D1117,stroke-width:2px,color:#fff
+    style E fill:#96CEB4,stroke:#0D1117,stroke-width:2px,color:#000
 ```
 
----
-
-## 🌟 Soft Skills
-
-🧠 Pensamiento Analítico • 🤝 Trabajo en Equipo • 📚 Aprendizaje Continuo  
-💡 Resolución de Problemas • 🎯 Orientación a Resultados • 🗣️ Comunicación Efectiva
+</div>
 
 ---
 
-## 📞 ¡Conectemos!
+## 💡 Skills & Expertise
 
-💬 ¿Tienes un proyecto interesante? ¡Hablemos!
+<div align="center">
 
-📧 **Email:** [estefanyt3101@gmail.com](mailto:estefanyt3101@gmail.com)  
-💼 **LinkedIn:** [Estefany Torres Timaná](https://www.linkedin.com/in/estefany-torres-timan%C3%A1-aa192328a/)  
-🐙 **GitHub:** [@estefanytorres31](https://github.com/estefanytorres31)
+### 🔥 Core Competencies
 
-![Profile views](https://komarev.com/ghpvc/?username=estefanytorres31&color=blueviolet&style=flat-square&label=Profile+Views)
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🎨 Frontend Development**
+```javascript
+const frontend = {
+  frameworks: ['React', 'React Native'],
+  styling: ['CSS3', 'Styled Components'],
+  tools: ['Vite', 'Webpack'],
+  mobile: ['iOS', 'Android'],
+  ux: ['Responsive Design', 'Accessibility']
+};
+```
+
+</td>
+<td width="33%" align="center">
+
+**⚡ Backend Development**
+```python
+backend = {
+    'languages': ['Node.js', 'Python', 'Java', 'Go'],
+    'frameworks': ['Express', 'Flask', 'Django', 'Spring'],
+    'databases': ['PostgreSQL', 'MySQL'],
+    'api': ['REST', 'GraphQL'],
+    'architecture': ['Microservices', 'MVC']
+}
+```
+
+</td>
+<td width="33%" align="center">
+
+**🛠️ DevOps & Tools**
+```yaml
+devops:
+  version_control: [Git, GitHub]
+  containers: [Docker]
+  testing: [Jest, Pytest]
+  ci_cd: [GitHub Actions]
+  monitoring: [Postman]
+  design: [Figma]
+```
+
+</td>
+</tr>
+</table>
+
+### 📊 Skill Progress Bars
+
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-88%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-82%25-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-65%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</div>
 
 ---
 
-> 💭 *"El código es poesía, y cada función es un verso que cuenta una historia."*  
-> **¡Gracias por visitar mi perfil! 🚀**
+## 🌟 Soft Skills & Mindset
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 🧠 Core Values
+
+🎯 **Problem Solving** • 🤝 **Team Collaboration** • 📚 **Continuous Learning**  
+💡 **Innovation** • 🎯 **Results-Oriented** • 🗣️ **Effective Communication**  
+⚡ **Adaptability** • 🔍 **Attention to Detail** • 🚀 **Growth Mindset**
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### 🌐 Find me around the web:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/estefany-torres-timan%C3%A1-aa192328a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/estefanytorres31)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:estefanyt3101@gmail.com)
+
+### 💬 Get in touch!
+
+```json
+{
+  "name": "Estefany Torres Timaná",
+  "location": "Lima, Perú 🇵🇪",
+  "email": "estefanyt3101@gmail.com",
+  "timezone": "GMT-5",
+  "languages": ["Spanish (Native)", "English (Professional)"],
+  "availability": "Open to opportunities",
+  "interests": ["Full Stack Development", "Automation", "Innovation"]
+}
+```
+
+**💭 ¿Tienes un proyecto interesante? ¡Hablemos!**  
+**🚀 Siempre estoy abierta a nuevas colaboraciones y desafíos.**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Fun Fact
+
+> *"El código es poesía, cada función es un verso,  
+> y cada bug es una oportunidad de hacer el código aún más hermoso."* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=estefanytorres31&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![Stars](https://img.shields.io/github/stars/estefanytorres31?color=00D9FF&style=for-the-badge&label=GitHub+Stars)
+![Followers](https://img.shields.io/github/followers/estefanytorres31?color=00D9FF&style=for-the-badge&label=Followers)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**¡Gracias por visitar mi perfil! 🚀**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
