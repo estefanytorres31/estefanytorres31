@@ -12,6 +12,81 @@
 
 ---
 
+## 🎊 2025 Year in Code - Wrapped
+
+<div align="center">
+
+### 🏆 Elite Class Developer Achievement Unlocked! 
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
+
+**👑 Universal Rank**  
+### Top 2%
+*Among all GitHub developers*
+
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" />
+
+**⚡ Power Level**  
+### Elite Class
+*Exceptional contribution quality*
+
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
+
+**🔥 Total Commits**  
+### 1,064
+*Commits in 2025*
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" />
+
+**🚀 Longest Streak**  
+### 13 days
+*Consistent contribution flow*
+
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
+
+**📅 Most Active Month**  
+### January
+*Peak productivity period*
+
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" />
+
+**📆 Most Active Day**  
+### Monday
+*Week starter champion*
+
+</td>
+</tr>
+</table>
+
+### 🎯 Top Language of 2025
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+*Leading the charge with type-safe development*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+---
+
 ## 👋 ¡Hola Mundo! 
 
 <div align="center">
@@ -30,6 +105,7 @@ interface Developer {
   passions: string[];
   currentLearning: string;
   lifePhilosophy: string;
+  githubRank: string;
 }
 
 const estefany: Developer = {
@@ -44,7 +120,8 @@ const estefany: Developer = {
     "Continuous Learning"
   ],
   currentLearning: "Go & Microservices Architecture",
-  lifePhilosophy: "Code is poetry, debug is therapy ✨"
+  lifePhilosophy: "Code is poetry, debug is therapy ✨",
+  githubRank: "Top 2% Worldwide 🏆"
 };
 ```
 
@@ -69,7 +146,7 @@ const estefany: Developer = {
 
 ### 💻 Languages & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,go,react,nodejs,reactnative,html,css,spring,flask,django,vite" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,go,react,nodejs,reactnative,html,css,spring,flask,django,vite" alt="Tech Stack" />
 </p>
 
 ### 🗄️ Databases & Tools
@@ -78,6 +155,7 @@ const estefany: Developer = {
 </p>
 
 ### 📈 Skill Levels
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -219,6 +297,7 @@ graph TD
 ```javascript
 const frontend = {
   frameworks: ['React', 'React Native'],
+  languages: ['TypeScript', 'JavaScript'],
   styling: ['CSS3', 'Styled Components'],
   tools: ['Vite', 'Webpack'],
   mobile: ['iOS', 'Android'],
@@ -260,6 +339,7 @@ devops:
 
 ### 📊 Skill Progress Bars
 
+![TypeScript](https://img.shields.io/badge/TypeScript-92%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-88%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -305,7 +385,8 @@ devops:
   "timezone": "GMT-5",
   "languages": ["Spanish (Native)", "English (Professional)"],
   "availability": "Open to opportunities",
-  "interests": ["Full Stack Development", "Automation", "Innovation"]
+  "interests": ["Full Stack Development", "Automation", "Innovation"],
+  "achievements": ["Top 2% GitHub Developer", "Elite Class Contributor"]
 }
 ```
 
