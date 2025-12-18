@@ -40,7 +40,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
 
 **🔥 Total Commits**  
-### 1,064
+### 1,229
 *Commits in 2025*
 
 </td>
