@@ -94,9 +94,8 @@ Sistema completo de punto de venta con gestión de inventario y analytics.
 ## 🎯 2025 Goals
 
 - Master Go and microservices architecture
-- Obtain AWS certification
 - Contribute to major open source projects
-- Expand mobile development skills (Kotlin/Swift)
+- Expand mobile development skills (React Native)
 - Build and share developer tools with the community
 
 ---
