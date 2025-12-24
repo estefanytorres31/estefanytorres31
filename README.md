@@ -81,7 +81,6 @@ Sistema completo de punto de venta con gestión de inventario y analytics.
 ### 🏆 2025 Achievement: Top 2% GitHub Developer Worldwide
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=estefanytorres31&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
 
