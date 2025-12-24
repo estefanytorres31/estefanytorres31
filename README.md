@@ -74,15 +74,18 @@ Sistema completo de punto de venta con gestión de inventario y analytics.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)
+### 🏆 2025 Achievement: Top 2% GitHub Developer Worldwide
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=estefanytorres31&theme=tokyonight&hide_border=true&background=0d1117)
+| 💻 Total Commits | 🔥 Longest Streak | 📅 Most Active | 🎯 Primary Language |
+|:---:|:---:|:---:|:---:|
+| **1,285** | **13 days** | **Monday** | **TypeScript** |
+
+### 🌟 Active Contributor
+**Elite Class Developer** • Consistent high-quality contributions throughout 2025
 
 </div>
 
