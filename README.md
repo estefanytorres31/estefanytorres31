@@ -77,12 +77,13 @@ Sistema completo de punto de venta con gestión de inventario y analytics.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=estefanytorres31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estefanytorres31&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=estefanytorres31&theme=tokyonight&hide_border=true&background=0d1117)
+
 </div>
 
 ---
