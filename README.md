@@ -88,7 +88,7 @@ Sistema completo de punto de venta con gestión de inventario y analytics.
 
 | 💻 Total Commits | 🔥 Longest Streak | 📅 Most Productive | 🎯 Primary Stack |
 |:---:|:---:|:---:|:---:|
-| **1,285** | **13 days** | **Monday** | **TypeScript** |
+| **1,285** | **13 days** | **Monday** | **JavaScript** |
 
 **Elite Class Developer** • Consistent high-quality contributions throughout 2025
 
