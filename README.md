@@ -59,18 +59,18 @@ const estefany = {
 
 ### 📱 Task & Attendance Management System
 Sistema integral de gestión de tareas y asistencia con dashboard interactivo y reportes automatizados.
-- **Stack:** React Native, Node.js, PostgreSQL
-- **Features:** Dashboard en tiempo real, notificaciones push, generación de reportes, aplicación multiplataforma
+- **Stack:** React Native, Node.js, PostgreSQL, React
+- **Features:** Dashboard en tiempo real, generación de reportes, aplicación multiplataforma
 
 ### 💰 Cashflow Management System
 Plataforma de gestión financiera con análisis dinámico y visualización de datos.
-- **Stack:** React Native, Node.js, MySQL
-- **Features:** Gráficos interactivos, análisis financiero, exportación de reportes, transacciones seguras
+- **Stack:** React Native, Node.js, MySQL, React
+- **Features:** Gráficos interactivos, análisis financiero, exportación de reportes
 
 ### 🛒 Point of Sale System
 Sistema completo de punto de venta con gestión de inventario y analytics.
 - **Stack:** React Native, Node.js, PostgreSQL
-- **Features:** Gestión de ventas, control de inventario, analytics de negocio, impresión de recibos
+- **Features:** Gestión de ventas, control de inventario, generación de recibos
 
 ---
 
