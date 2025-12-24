@@ -59,7 +59,7 @@ const estefany = {
 
 ### 📱 Task & Attendance Management System
 Sistema integral de gestión de tareas y asistencia con dashboard interactivo y reportes automatizados.
-- **Stack:** React Native, Node.js, PostgreSQL, React
+- **Stack:** React Native, Node.js, MySQL, React
 - **Features:** Dashboard en tiempo real, generación de reportes, aplicación multiplataforma
 
 ### 💰 Cashflow Management System
@@ -74,17 +74,23 @@ Sistema completo de punto de venta con gestión de inventario y analytics.
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub Statistics
 
 <div align="center">
 
 ### 🏆 2025 Achievement: Top 2% GitHub Developer Worldwide
 
-| 💻 Total Commits | 🔥 Longest Streak | 📅 Most Active | 🎯 Primary Language |
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=estefanytorres31&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=estefanytorres31&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+</p>
+
+### 💡 Activity Highlights
+
+| 💻 Total Commits | 🔥 Longest Streak | 📅 Most Productive | 🎯 Primary Stack |
 |:---:|:---:|:---:|:---:|
 | **1,285** | **13 days** | **Monday** | **TypeScript** |
 
-### 🌟 Active Contributor
 **Elite Class Developer** • Consistent high-quality contributions throughout 2025
 
 </div>
